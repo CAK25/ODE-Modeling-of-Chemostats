@@ -1,5 +1,5 @@
 # ODE Modeling of Chemostats
- Bifurcation analysis on chemostat models, modeling two ordinary differential equations on a plot, and sensitivity analysis by varying differet paremters within the model.
+ Bifurcation analysis on chemostat models, modeling two ordinary differential equations on a plot, and sensitivity analysis by varying different paremters within the model.
 
 The two (2) ODEs given in the research paper were plotted.
 
